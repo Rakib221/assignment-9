@@ -1,8 +1,24 @@
-.App {
-  text-align: center;
+.background{
+  position: fixed;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
-.App-logo {
+.align{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding:15px;
+  border-radius:5px;
+  text-align: initial;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+}  */
