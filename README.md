@@ -1,4 +1,5 @@
-#Use private route
+# Early Rider
+Use private route
 
 ### firbase authentication
 
