@@ -3,4 +3,4 @@ Use private route
 
 ### firbase authentication
 
-## Live site: https://rakib-221.netlify.app/
+## Live site: https://assignment-9-d0480.firebaseapp.com/
